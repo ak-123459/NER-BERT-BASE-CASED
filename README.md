@@ -17,7 +17,7 @@ This repository contains code to fine-tune the `bert-base-cased` model for Named
 
 This project fine-tunes `bert-base-cased` for Named Entity Recognition (NER) on university data to identify specific entities in academic text. This model is useful for processing university documents and extracting structured information.
 
-#  <a href="https://imgbb.com/"><img src="https://i.ibb.co/D9vKsxH/dataset.png" alt="dataset" border="0"></a> <small>Dataset</small>
+#  <a href="https://imgbb.com/"><img src="https://i.ibb.co/D9vKsxH/dataset.png" alt="dataset" border="0"></a> [Dataset]
 
 The dataset should contain labeled examples with tokens, labels, and annotations for entities relevant to university text. The labeling follows the BIO format (e.g., `B-BRANCH`, `I-BRANCH`, `O`).
 
