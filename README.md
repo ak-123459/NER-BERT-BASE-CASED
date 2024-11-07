@@ -35,7 +35,7 @@ Science  I-BRANCH
 is       O
 a        O
 subject  O
-```plaintext
+```
 
 <br></br>
 
