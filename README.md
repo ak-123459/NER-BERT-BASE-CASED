@@ -61,7 +61,7 @@ subject  O
 
   </a>
 
-<a href="https://ibb.co/QvGvQFh"><img src="https://i.ibb.co/k2F2Bgz/llms-800x800.png" alt="llms-800x800" border="0"  width="10"></a><br /><a target='_blank' href='https://imgbb.com/'>image hosting</a>
+<a href="https://ibb.co/QvGvQFh"><img src="https://i.ibb.co/k2F2Bgz/llms-800x800.png" alt="llms-800x800" border="0"  width="60"></a><br /><a target='_blank' href='https://imgbb.com/'>image hosting</a>
 
  
 </div>
