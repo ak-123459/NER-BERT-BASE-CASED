@@ -43,7 +43,15 @@ subject  O
 
 
 
-<a>
+<a
     <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="gColab"/>
   </a>
+
+<div
+
+ <a 
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Kaggle"/>
+  </a>
+
+</div>
 
