@@ -57,12 +57,11 @@ subject  O
   </a>
 
    <a >
-    <img src=" https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"/>
 
-     
   </a>
 
-<a href="https://ibb.co/QvGvQFh"><img src="https://i.ibb.co/k2F2Bgz/llms-800x800.png" alt="llms-800x800" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>image hosting width="40"</a>
+<a href="https://ibb.co/QvGvQFh"><img src="https://i.ibb.co/k2F2Bgz/llms-800x800.png" alt="llms-800x800" border="0"  width="10"></a><br /><a target='_blank' href='https://imgbb.com/'>image hosting</a>
 
  
 </div>
