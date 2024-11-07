@@ -39,19 +39,12 @@ subject  O
 <br></br>
 
 
-3. [Requirements](#requirements)
 
 
 
-<a
-    <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="gColab"/>
+<div id="badges" align="center">
+
+  <a >
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="tensorflow"/>
   </a>
-
-<div
-
- <a 
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Kaggle"/>
-  </a>
-
 </div>
-
