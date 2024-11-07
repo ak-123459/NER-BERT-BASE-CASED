@@ -1,4 +1,4 @@
-# <a href="https://imgbb.com/"><img src="https://i.ibb.co/5LHZgs5/natural-language-processing.png" alt="natural-language-processing" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>image hosting</a><br /> University Named Entity Recognition (NER) with BERT
+# <a href="https://imgbb.com/"><img src="https://i.ibb.co/5LHZgs5/natural-language-processing.png" alt="natural-language-processing" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a> University Named Entity Recognition (NER) with BERT
 
 This repository contains code to fine-tune the `bert-base-cased` model for Named Entity Recognition (NER) on university-related data, targeting entities such as department names, course titles, and academic roles.
 
