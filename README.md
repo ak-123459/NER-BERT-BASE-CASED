@@ -8,7 +8,7 @@
 
 This repository contains code to fine-tune the `bert-base-cased` model for Named Entity Recognition (NER) on university-related data, targeting entities such as department names, course titles, and academic roles.
 
-## Table of Contents
+## **Table of Contents**
 1. [Project Overview](#project-overview)
 2. [Dataset](#dataset)
 3. [Requirements](#requirements)
@@ -19,7 +19,7 @@ This repository contains code to fine-tune the `bert-base-cased` model for Named
 8. [Results](#results)
 9. [Acknowledgments](#acknowledgments)
 
-## Project Overview
+## **Project Overview**
 
 This project fine-tunes `bert-base-cased` for Named Entity Recognition (NER) on university data to identify specific entities in academic text. This model is useful for processing university documents and extracting structured information.
 
@@ -35,3 +35,13 @@ Science  I-BRANCH
 is       O
 a        O
 subject  O
+
+<br></br>
+
+
+3. [Requirements](#requirements)
+
+
+<a href="https://imgbb.com/"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Google Colab" border="0"></a><br /><a target='_blank'</a> 
+
+
