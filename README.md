@@ -40,12 +40,15 @@ subject  O
 <br></br>
 
 
+3. [Requirements](#requirements)
 
 
 
-<div id="badges" align="center">
+<div id="badges" align="start">
 
   <a >
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="tensorflow"/>
+    <img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)" alt="tensorflow"/>
   </a>
 </div>
+
+
