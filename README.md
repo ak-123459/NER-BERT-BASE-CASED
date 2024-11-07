@@ -4,6 +4,8 @@
   ## University Named Entity Recognition (NER) with BERT
 </div> 
 
+<br></br>
+
 This repository contains code to fine-tune the `bert-base-cased` model for Named Entity Recognition (NER) on university-related data, targeting entities such as department names, course titles, and academic roles.
 
 ## Table of Contents
