@@ -60,11 +60,12 @@ subject  O
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"/>
 
   </a>
-
- <a >
-<img src="https://i.ibb.co/k2F2Bgz/llms-800x800.png" alt="llms-800x800" border="0"  width="100"/>
-  </a>
  
 </div>
+
+
+<a >
+<img src="https://i.ibb.co/k2F2Bgz/llms-800x800.png" alt="llms-800x800" border="0"  width="100"/>
+  </a>
 
 
