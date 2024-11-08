@@ -75,7 +75,7 @@ During overall training how to load dataset ,prepare dataset,tokenized dataset a
 
 
 # Note:- 
-**For More details about how to fine tune bert-base-case please check the google colab notebook.**
+**For More details about how to fine tune bert-base-case please check the google colab notebook above.**
 
 
 
