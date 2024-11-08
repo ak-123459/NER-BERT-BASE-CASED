@@ -12,11 +12,6 @@ This repository contains code to fine-tune the `bert-base-cased` model for Named
 1. [Project Overview](#project-overview)
 2. [Dataset](#dataset)
 3. [Requirements](#requirements)
-4. [Setup](#setup)
-5. [Training the Model](#training-the-model)
-6. [Evaluating the Model](#evaluating-the-model)
-7. [Inference](#inference)
-8. [Results](#results)
 
 ## **Project Overview**
 
