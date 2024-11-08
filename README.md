@@ -74,7 +74,8 @@ subject  O
 During overall training how to load dataset ,prepare dataset,tokenized dataset and how to train the model and after how to evaluate the model.we test and validate model on both test and validations dataset we can run multiple epochs to decreased the validation loss.
 
 
-# Note:- For More details about how to fine tune bert-base-case please check the google colab notebook.
+# Note:- 
+**For More details about how to fine tune bert-base-case please check the google colab notebook.**
 
 
 
