@@ -24,7 +24,6 @@ The dataset should contain labeled examples with tokens, labels, and annotations
 **Example Format**:
 ```plaintext
 Token    Label
-&nbsp;
 Computer B-BRANCH
 Science  I-BRANCH
 is       O
