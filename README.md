@@ -17,7 +17,6 @@ This repository contains code to fine-tune the `bert-base-cased` model for Named
 6. [Evaluating the Model](#evaluating-the-model)
 7. [Inference](#inference)
 8. [Results](#results)
-9. [Acknowledgments](#acknowledgments)
 
 ## **Project Overview**
 
@@ -67,5 +66,15 @@ subject  O
 <a >
 <img src="https://i.ibb.co/k2F2Bgz/llms-800x800.png" alt="llms-800x800" border="0"  width="100"/>
   </a>
+
+
+
+  4. [Acknowledgments](#acknowledgments)
+
+During overall training how to load dataset ,prepare dataset,tokenized dataset and how to train the model and after how to evaluate the model.we test and validate model on both test and validations dataset we can run multiple epochs to decreased the validation loss.
+
+
+# Note:- For More details about how to fine tune bert-base-case please check the google colab notebook.
+
 
 
